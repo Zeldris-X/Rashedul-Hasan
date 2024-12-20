@@ -19,12 +19,10 @@ Here are some of the tools and software I use regularly:
 
 Here are some of my noteworthy repositories:
 
-1. [**Animal Care Robot**](https://github.com/username/animal-care-robot): Autonomous robot for animal care, combining ML and robotics.
-2. [**Grid Stability Prediction**](https://github.com/username/grid-stability-prediction): Predicting stability in smart grids using deep learning.
-3. [**Emotion Recognition System**](https://github.com/username/emotion-recognition): Emotion recognition using a Hybrid Transformer-CNN model.
-4. [**Explainable AI for Glaucoma Risk Assessment**](https://github.com/username/glaucoma-risk-ai): AI project for explainable risk analysis in glaucoma.
-5. [**Single-Cell Signaling Dynamics**](https://github.com/username/single-cell-dynamics): ML-based analysis of single-cell data for biomedical applications.
-6. [**Short-Term Load Forecasting**](https://github.com/username/stlf-energy): Short-term load forecasting for energy management systems.
+1. [**Electrical Design of a One storey Building using AutoCAD**](https://github.com/Zeldris-X/AutoCAD): 
+2. [**Design of a Distribution Transformer**](https://github.com/Zeldris-X/Transformer-Design): 
+3. [**My Portfolio**](https://github.com/Zeldris-X/My_portfolio):
+
 
 ---
 
@@ -32,9 +30,9 @@ Here are some of my noteworthy repositories:
 
 Feel free to reach out to collaborate or discuss exciting projects:
 
-- **Email**: [rashedul.hasan@example.com](mailto:rashedul.hasan@example.com)
-- **LinkedIn**: [Rashedul Hasan](https://www.linkedin.com/in/rashedul-hasan)
-- **GitHub**: [@RashedulHasan](https://github.com/username)
+- **Email**: [rashedulhasan2079@gmail.com](mailto:rashedulhasan2079@gmail.com)
+- **LinkedIn**: [Rashedul Hasan](www.linkedin.com/in/rashedul-hasan-04874b31b)
+- **GitHub**: [@RashedulHasan](https://github.com/Zeldris-X)
 
 ---
 
