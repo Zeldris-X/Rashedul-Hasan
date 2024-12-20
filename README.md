@@ -1,4 +1,4 @@
-# Rashedul Hasan
+# Zeldris-X
 
 Hi! I'm Rashedul Hasan, a passionate engineer and researcher with a strong foundation in Machine Learning, Deep Learning, and AI. With expertise in both software development and hardware simulation tools, I thrive in creating solutions for complex problems in robotics, biomedical applications, and beyond. Let's innovate together!
 
