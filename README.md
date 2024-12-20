@@ -9,9 +9,11 @@ Hi! I'm Rashedul Hasan, a passionate engineer and researcher with a strong found
 Here are some of the tools and software I use regularly:
 
 - **Programming Languages**: Python, C#, C++
-- **Machine Learning & AI**: TensorFlow, PyTorch, Scikit-learn
-- **Simulation Tools**: MATLAB, NI Multisim, ADS (Advanced Design System)
-- **Version Control**: Git
+- **Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn
+- **Libraries**: NumPy, OpenCV, Pandas, Seaborn, Matplotlib
+- **Software**: MATLAB, NI Multisim, Unity, Advanced Design System, Proteus, AutoCAD
+- **Markup Languages**: HTML, LaTeX
+- **Tools**: Jupyter Notebook, Kaggle, VS Code, Git
 
 ---
 
